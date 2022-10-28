@@ -34,7 +34,7 @@ SAMUNDEESWARI M
          
 - [x] 3. Write python code for blinking LED and Traffic lights for Raspberry pi. :tada:
 
-- [x] 1. Write code and connections in wokwi for the ultrasonic sensor.
+- [x] 4. Write code and connections in wokwi for the ultrasonic sensor.
 Whenever the distance is less than 100 cms send an "alert" to the IBM cloud and display in
 the device recent events.
 Upload document with wokwi share link and images of IBM cloud :tada:
