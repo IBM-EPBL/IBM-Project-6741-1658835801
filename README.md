@@ -41,3 +41,10 @@ Upload document with wokwi share link and images of IBM cloud :tada:
 
 **Assignment Folder -https://github.com/IBM-EPBL/IBM-Project-6741-1658835801/tree/main/Assignment**
 
+# Final Deliverables
+
+**https://github.com/IBM-EPBL/IBM-Project-6741-1658835801/tree/main/Final%20Deliverables**
+
+# Video Demo Link
+
+**https://onedrive.live.com/?authkey=%21AD3Nc3f%5FZKfemUw&cid=3355E34A8E536C36&id=3355E34A8E536C36%211632&parId=3355E34A8E536C36%211631&o=OneUp**
